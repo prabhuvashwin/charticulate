@@ -1,0 +1,5 @@
+name: charticulate
+version: '1.0'
+title: Charticulate Documentation
+nav:
+  - modules/ROOT/nav.adoc
